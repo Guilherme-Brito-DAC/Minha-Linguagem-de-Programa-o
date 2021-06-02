@@ -1,0 +1,26 @@
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\bin\Debug\GuiProgrammingLanguage.exe.config
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\bin\Debug\GuiProgrammingLanguage.exe
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\bin\Debug\GuiProgrammingLanguage.pdb
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.csprojAssemblyReference.cache
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.Properties.Resources.resources
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.csproj.GenerateResource.cache
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.exe
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.pdb
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\bin\Debug\pt-BR\GuiProgrammingLanguage.resources.dll
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.RootIDE.resources
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.RootIDE.pt-BR.resources
+C:\Users\Guilherme brito\source\repos\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\pt-BR\GuiProgrammingLanguage.resources.dll
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\bin\Debug\GuiProgrammingLanguage.exe.config
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\bin\Debug\GuiProgrammingLanguage.exe
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\bin\Debug\GuiProgrammingLanguage.pdb
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\bin\Debug\pt-BR\GuiProgrammingLanguage.resources.dll
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.csprojAssemblyReference.cache
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.RootIDE.resources
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.Properties.Resources.resources
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.RootIDE.pt-BR.resources
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.csproj.GenerateResource.cache
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.csproj.CoreCompileInputs.cache
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\pt-BR\GuiProgrammingLanguage.resources.dll
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.exe
+D:\stuff\Tests\C#\GuiProgrammingLanguage\GuiProgrammingLanguage\obj\Debug\GuiProgrammingLanguage.pdb
